@@ -2,7 +2,9 @@
 
 ## Installation 
 Give instructions on how to install here. 
-``` make sure to include commands/code in this format if any is needed. 
+```
+make sure to include commands/code in this format if any is needed. 
+```
 
 ## Documentation 
 Either link to more documentation, or describe it here. 
